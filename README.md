@@ -22,21 +22,28 @@ This is a one day workshop on statistical models for social science data analysi
 Stata https://www.stata.com/ <br>
 
 
-### Topics: 
+### Useful Stata Related Websites
 
-This workshop will be at an intermediate level. It will cover the following ideas and concepts <br>
-<br>
-•	The Multivariate World <br>
-•	Linear Regression <br>
-•	Generalized Linear Models <br>
-•	Modelling Binary Outcomes <br>
-•	Modelling Categorical Outcome <br>
-•	Modelling Order Categorical Outcomes <br>
-•	Modelling Count Data <br>
-•	More Exotic Models <br>
-•	Choosing and Criticising Models <br>
-•	Statistical Data Analysis Software <br>
-•	Communicating Statistical Modelling Results <br>
+https://stats.idre.ucla.edu/stata/  <br>
+https://www.stata.com  <br>
+https://www.stata.com/links/resources-for-learning-stata/  <br>
+http://www.restore.ac.uk/Longitudinal/
+
+
+### Cheat Sheets (Stata)
+
+https://www.stata.com/links/resources-for-learning-stata/ <br>
+https://geocenter.github.io/StataTraining/portfolio/01_resource/  <br>
+https://www.datasciencecentral.com/group/resources/forum/topics/stata-cheat-sheet  <br>
+
+### Two Page Guide to Stata
+
+http://www-personal.umich.edu/~agrogan/stata/TwoPageStata.pdf
+
+#### Communicating Results from Statistical Models (NCRM Resource)
+Producing Automated Outputs (using Stata) by Dr Roxanne Connelly<br>
+https://www.ncrm.ac.uk/resources/online/all/?id=20788
+
 
 
 ### Reading List: 
@@ -74,9 +81,11 @@ Connelly, R., Gayle, V. and Lambert, P., 2016. Statistical modelling of key vari
 Gayle, V., & Connelly, R. (2022). The Stark realities of reproducible statistically orientated sociological research: Some newer rules of the sociological method. Methodological Innovations.<br>
 https://doi.org/10.1177/20597991221111681
 
-#### Communicating Results from Statistical Models (NCRM Resource)
-Producing Automated Outputs (using Stata) by Dr Roxanne Connelly<br>
-https://www.ncrm.ac.uk/resources/online/all/?id=20788
+#### Longitudinal Data Analysis
+
+Gayle, V. and Lambert, P., 2021. Quantitative Longitudinal Data Analysis. Bloomsbury Publishing.<br>
+https://www.bloomsbury.com/uk/quantitative-longitudinal-data-analysis-9781350188853/<br>
+_My recent book on longitudinal data analysis (using Stata)._
 
 
 
