@@ -57,7 +57,7 @@ https://www.datasciencecentral.com/group/resources/forum/topics/stata-cheat-shee
 
 ### Two Page Guide to Stata
 
-http://www-personal.umich.edu/~agrogan/stata/TwoPageStata.pdf
+https://agrogan1.github.io/Stata/two-page-stata/TwoPageStata.html
 
 #### Communicating Results from Statistical Models (NCRM Resource)
 Producing Automated Outputs (using Stata) by Dr Roxanne Connelly<br>
