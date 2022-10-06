@@ -17,6 +17,16 @@ The social world is complex and messy. Statistical models provide a formal appro
 
 This is a one day workshop on statistical models for social science data analysis. It will introduce the underlying concepts associated with multivariate analysis using statistical models. The workshop will concentrate on models within the generalized linear modelling framework. It will cover linear regression, and models for binary, categorical, ordered categorical and count data. The focus of the workshop will be on social science applications, and social science data and research questions will be showcased throughout. The emphasis will be on interpreting outputs (e.g. from data analysis software packages) and understanding published results. <br>
 
+| File Title      | File Type          | Description
+| -------------------------------------|:-------------:|:-------------:|
+| intro_jupyter_20180929_vg_v2.pdf |.pdf | Getting started with Jupyter |
+| jupyter_install_june_2019_20190618_vg_v3.pdf | .pdf | updated pdf on how to install Jupyter and the Stata and R kernels |
+| lux_20180929_vg_v1.ipynb| .ipynb | Jupyter notebook for the workshop |
+| lux_20180929_vg_v1.pdf| .pdf | pdf version of the Jupyter notebook for the workshop |
+| luxembourg_20180928_vg_v3.pdf| .pdf | pdf version of slides from my talk |
+| workshop_oct_slides_20180929_vg_v1.pdf| .pdf | pdf version of slides for the workshop|
+<br>
+
 ###  Software Websites
 
 Stata https://www.stata.com/ <br>
