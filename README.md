@@ -16,6 +16,8 @@
 The social world is complex and messy. Statistical models provide a formal approach to evaluate data, test ideas and investigate research questions. <br>
 
 This is a one day workshop on statistical models for social science data analysis. It will introduce the underlying concepts associated with multivariate analysis using statistical models. The workshop will concentrate on models within the generalized linear modelling framework. It will cover linear regression, and models for binary, categorical, ordered categorical and count data. The focus of the workshop will be on social science applications, and social science data and research questions will be showcased throughout. The emphasis will be on interpreting outputs (e.g. from data analysis software packages) and understanding published results.<br>
+<br>
+<br>
 **Stata Files**
 <br>
 
