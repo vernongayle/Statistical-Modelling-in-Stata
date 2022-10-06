@@ -23,7 +23,7 @@ This is a one day workshop on statistical models for social science data analysi
 
 | File Title      | File Type          | Description
 | -------------------------------------|:-------------:|:-------------:|
-| statistical_modelling_stata_2022_20221006_vg_v6 |.do | A simple data file |
+| statistical_modelling_stata_2022_20221006_vg_v7 |.do | A simple data file |
 | data_file_v1.dta |.dta | A simple data file |
 | hsb3.dta | .dta | Regression Models |
 | youth_data_logit_v1 | .dta | Logistic Regression Models |
